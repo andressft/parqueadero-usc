@@ -1,0 +1,14 @@
+# Archivos que genera Maven al compilar
+target/
+
+# Archivo que crea la app al cobrar (se genera al usarla)
+historial.txt
+
+# Configuración de los editores
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
