@@ -2,7 +2,13 @@
 
 Aplicación de escritorio en JavaFX para administrar un parqueadero de 12 puestos.
 
-## Cómo descargarla
+## Instalador para Windows
+
+Para usarla sin instalar Java ni Maven: descargar `Parqueadero-USC-1.0.exe` desde
+https://github.com/andressft/parqueadero-usc/releases/latest y abrirlo. Si Windows muestra
+"Windows protegió su PC", pulsar **Más información** › **Ejecutar de todas formas**.
+
+## Cómo descargar el código
 
 Con git: `git clone https://github.com/andressft/parqueadero-usc.git`
 
